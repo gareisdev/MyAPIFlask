@@ -1,2 +1,4 @@
 env/
 TODO
+doc.md
+__pycache__/
